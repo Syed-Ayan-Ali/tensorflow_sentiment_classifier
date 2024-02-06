@@ -1,2 +1,2 @@
-.DS_Store
-*.pyc
+tensorflow_image_recognition_env
+*.json
